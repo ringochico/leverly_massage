@@ -7,6 +7,7 @@ gem 'middleman-deploy', git: 'https://github.com/lewagon/middleman-deploy.git'
 gem 'pry-byebug', require: true
 
 # Assets
+gem 'sassc', '>= 1.12.1'
 gem 'font-awesome-sass'
 gem 'bootstrap-sass'
 gem 'jquery-middleman'
